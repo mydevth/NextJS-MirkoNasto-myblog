@@ -90,7 +90,7 @@ sudo certbot --nginx -d xxx.xxx
 sudo systemctl restart nginx
 ```
 
-// Update 
+### Update/Upgrade Next.js App
 ```
 git pull
 npm install
