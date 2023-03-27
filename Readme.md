@@ -40,3 +40,6 @@ extension
 
 favicon.io
 https://favicon.io/emoji-favicons/infinity/
+
+npm install marked
+npm install gray-matter
