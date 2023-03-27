@@ -67,6 +67,7 @@ cd next-app
 ```
 npm install
 ```
+
 ```
 npm run build
 ```
@@ -77,7 +78,7 @@ pm2 start npm --name "my-next-app" -- start
 pm2 status
 // pm2 stop my-next-app
 // pm2 restart my-next-app
-
+```
 http://<your domain>
 ```
 sudo apt install certbot python3-certbot-nginx
@@ -90,11 +91,11 @@ sudo systemctl restart nginx
 ```
 
 // Update 
-  ```
+```
 git pull
 npm install
 npm run build
 pm2 restart my-next-app
-  ```
+```
 
 
