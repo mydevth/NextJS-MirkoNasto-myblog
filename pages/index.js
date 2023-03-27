@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <>
       <Head>
-        <title>My Blog</title>
+        <title>My Next App Blog</title>
         <meta name="description" value="This is my blog" />
       </Head>
       <main>
