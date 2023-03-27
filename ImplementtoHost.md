@@ -1,3 +1,5 @@
+## Deploy a Next.js App on Ubuntu with Nginx and Let’s Encrypt
+
 ```
 sudo apt update && sudo apt upgrade
 ```
