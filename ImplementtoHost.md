@@ -63,7 +63,7 @@ sudo apt install -y nodejs
 npm install pm2 -g
 ```
 ```
-git clone https://github.com/<your Github username>/<your project name>.git  next-app
+git clone https://github.com/`<your Github username>/<your project name>`.git  next-app
 ```
 cd next-app
 ```
