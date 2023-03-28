@@ -40,6 +40,12 @@ extension
 
 favicon.io
 https://favicon.io/emoji-favicons/infinity/
-
-npm install marked
+### function takes a string and returns an object
+```
 npm install gray-matter
+```
+### markdown to html
+```
+npm install marked
+```
+
