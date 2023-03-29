@@ -40,12 +40,20 @@ extension
 
 favicon.io
 https://favicon.io/emoji-favicons/infinity/
+
 ### function takes a string and returns an object
+
 ```
 npm install gray-matter
 ```
+
 ### markdown to html
+
 ```
 npm install marked
 ```
 
+npm run build
+npx next export -o dist
+
+https://nextjs-myblog.netlify.app/
